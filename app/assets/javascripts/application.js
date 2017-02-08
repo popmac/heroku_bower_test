@@ -12,6 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require d3
+//= require radar-chart-d3
 //= require turbolinks
 //= require bootstrap-sprockets
 //= require_tree .
